@@ -6,3 +6,4 @@ Advance/Effective[[:space:]]Modern[[:space:]]C++[[:space:]]42[[:space:]]Specific
 Basic/C++[[:space:]]Primer中文版：第5版_王刚[[:space:]]&[[:space:]]杨巨峰.epub filter=lfs diff=lfs merge=lfs -text
 Basic/C++[[:space:]]Primer中文版：第5版.pdf filter=lfs diff=lfs merge=lfs -text
 Advance/Fedor[[:space:]]G.[[:space:]]Pikus[[:space:]]-[[:space:]]The[[:space:]]Art[[:space:]]of[[:space:]]Writing[[:space:]]Efficient[[:space:]]Programs_[[:space:]]An[[:space:]]advanced[[:space:]]programmer's[[:space:]]guide[[:space:]]to[[:space:]]efficient[[:space:]]hardware[[:space:]]utilization[[:space:]]and[[:space:]]compiler[[:space:]]optimizations[[:space:]]using[[:space:]]C++[[:space:]]examples-Packt[[:space:]]Publishing[[:space:]](2021).epub filter=lfs diff=lfs merge=lfs -text
+Advance/C++[[:space:]]Concurrency[[:space:]]in[[:space:]]Action,[[:space:]]Second[[:space:]]Edition[[:space:]]-[[:space:]]Anthony[[:space:]]Williams.epub filter=lfs diff=lfs merge=lfs -text
